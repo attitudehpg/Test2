@@ -1,0 +1,109 @@
+.adverts{
+    background-color: #BF3E26;
+    font-size: 13pt;
+    margin-bottom: 50px;
+}
+
+.adverts a{
+    color:#98fb98;
+}
+.adverts a:hover ,.adverts a:focus , .adverts a:visited{
+    color:#98fb98;
+}
+.pagination > li > a,
+.pagination > li > span{
+    color: #BF3E26;
+
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus{
+    background-color: #98fb98;
+    color:#BF3E26;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus{
+    background-color: #1C8C42;
+    color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+/* pour les agents */
+.advertsAgent{
+    background-color: #BF3E26;
+    font-size: 13pt;
+    margin-bottom: 50px;
+}
+
+.advertsAgent a{
+    color:#98fb98;
+}
+.advertsAgent a:hover ,.advertsAgent a:focus , .advertsAgent a:visited{
+    color:#98fb98;
+}
+.pagination > li > a,
+.pagination > li > span{
+    color: #BF3E26;
+
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus{
+    background-color: #98fb98;
+    color:#BF3E26;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus{
+    background-color: #1C8C42;
+    color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+/* pour s recruteurs */
+.advertsRecruteur{
+    background-color: #BF3E26;
+    font-size: 13pt;
+    margin-bottom: 50px;
+}
+
+.advertsRecruteur a{
+    color:#98fb98;
+}
+.advertsRecruteur a:hover ,.advertsRecruteur a:focus , .advertsRecruteur a:visited{
+    color:#98fb98;
+}
+.pagination > li > a,
+.pagination > li > span{
+    color: #BF3E26;
+
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus{
+    background-color: #98fb98;
+    color:#BF3E26;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus{
+    background-color: #1C8C42;
+    color: #ffffff;
+    border: 1px solid #dddddd;
+}
